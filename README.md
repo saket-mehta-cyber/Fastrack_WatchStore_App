@@ -8,7 +8,8 @@ An online watch store ecommerce application would include essential features for
 * You can personalize your personal details and card details anytime.
 * You can check products page to checkout and buy the best watches.
 * You can put the items and in your shopping-cart
-* At checkout, you can see the complete list of items and grand-total of price with payment options
+* At checkout, you can see the complete list of items and grand-total of price with payment options.
+
 **Seller**
 * As a seller you can create your account and login.
 * You can perform CRUD operation on products, which will be reflected to customers.
