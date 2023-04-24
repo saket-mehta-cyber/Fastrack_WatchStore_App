@@ -15,17 +15,17 @@ This online watch store application includes essential features for both sellers
 * You can perform CRUD operation on products, which will be reflected to customers.
 
 ## Application Screenshots
-
+1. Homepage
 <img src="/assets/homepage.png" width="600px" align="center">
-
+2. Login page
 <img src="/assets/login.png" width="600px" align="center">
-
+3. Product detail page
 <img src="/assets/product_detail.png" width="600px" align="center">
-
+4. Cart page
 <img src="/assets/cart.png" width="600px" align="center">
-
+5. Billing-Checkout Page
 <img src="/assets/billing.png" width="600px" align="center">
-
+6. Seller Features page
 <img src="/assets/sellerFeatures.png" width="600px" align="center">
 
 
